@@ -1,0 +1,6 @@
+{
+  "name": "Pemasukan Harian CV Mahardika",
+  "description": "Aplikasi pencatatan pemasukan harian CV Mahardika dengan Room, Cloud Sync, PDF, Excel, Biometric, dan Grafik Bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
